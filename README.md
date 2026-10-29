@@ -2,7 +2,7 @@
 
 > 🔞 **Adult (18+) · NSFW** — part of afterdark-workers, workers for uncensored adult image and video models.
 
-A ready-to-build [RunPod Serverless](https://runpod.io?ref=qpguwapm) worker for **[Asian Utopian Z-Image](https://civitai.com/models/2247533?modelVersionId=3342718)** v4.6, a photorealistic Z-Image Turbo fine-tune for East Asian portraits. Based on the official [`runpod/worker-comfyui`](https://github.com/runpod-workers/worker-comfyui).
+A ready-to-build [RunPod Serverless](https://runpod.io?ref=qpguwapm) worker for **[Asian Utopian Z-Image](https://civitai.com/models/2247533?modelVersionId=3342718)** v4 by [hinablue](https://civitai.com/user/hinablue).6, a photorealistic Z-Image Turbo fine-tune for East Asian portraits. Based on the official [`runpod/worker-comfyui`](https://github.com/runpod-workers/worker-comfyui).
 
 Models are baked into the image, so a cold start does not re-download anything.
 
